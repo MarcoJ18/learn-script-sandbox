@@ -14,4 +14,4 @@ https://javascript30.com/
 
 dalto
 
-Hoy: https://es.javascript.info/comparison
+Hoy: https://es.javascript.info/logical-operators
