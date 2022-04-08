@@ -14,4 +14,6 @@ https://javascript30.com/
 
 dalto
 
-Hoy: https://es.javascript.info/logical-operators
+Hoy: https://es.javascript.info/nullish-coalescing-operator
+
+Today: https://javascript.info/nullish-coalescing-operator
