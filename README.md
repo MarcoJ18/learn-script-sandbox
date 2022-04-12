@@ -14,17 +14,6 @@ https://javascript30.com/
 
 dalto
 
-<table>
-<tr>
-  <th colspan="2" >Code Online</th>
+Hoy: https://es.javascript.info/while-for
 
-</tr>
-<tr>
-  <td>https://liveweave.com/</td>
-  <td>https://codesandbox.io/</td>
-</tr>
-</table>
-
-Hoy: https://es.javascript.info/nullish-coalescing-operator
-
-Today: https://javascript.info/nullish-coalescing-operator
+Today: https://javascript.info/while-for
