@@ -14,6 +14,14 @@ https://javascript30.com/
 
 dalto
 
-Hoy: https://es.javascript.info/while-for
+Donde programar:
+https://codesandbox.io/
+https://liveweave.com/
+https://codi.link/
+about:blank
 
-Today: https://javascript.info/while-for
+Hoy: https://es.javascript.info/switch
+
+Today: https://javascript.info/switch
+
+Dalto -> InfojavaScript -> Freecodecamp -> Sarosi -> Proyects -> ...
