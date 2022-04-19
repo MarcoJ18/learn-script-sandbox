@@ -20,8 +20,8 @@ https://liveweave.com/
 https://codi.link/
 about:blank
 
-Hoy: https://es.javascript.info/switch
+Hoy: https://es.javascript.info/function-basics
 
-Today: https://javascript.info/switch
+Today: https://javascript.info/function-basics
 
 Dalto -> InfojavaScript -> Freecodecamp -> Sarosi -> Proyects -> ...
