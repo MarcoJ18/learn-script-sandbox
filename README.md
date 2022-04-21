@@ -20,7 +20,7 @@ https://liveweave.com/
 https://codi.link/
 about:blank
 
-Hoy: https://es.javascript.info/function-basics
+Hoy: https://es.javascript.info/function-expressions
 
 Today: https://javascript.info/function-basics
 
