@@ -20,8 +20,8 @@ https://liveweave.com/
 https://codi.link/
 about:blank
 
-Hoy: https://es.javascript.info/function-expressions
+Hoy: https://es.javascript.info/javascript-specials
 
-Today: https://javascript.info/function-basics
+Today: https://javascript.info/javascript-specials
 
 Dalto -> InfojavaScript -> Freecodecamp -> Sarosi -> Proyects -> ...
